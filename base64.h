@@ -1,5 +1,5 @@
 /******************************/
-/* Autor: Gabriel Briceño Juan      */
+/* Autor: Gabriel Briceï¿½o Juan      */
 /*Nombre: Codificador de base 64*/
 /*                                                  */
 /* Fecha. 5 de julio de 2016          */
@@ -10,7 +10,7 @@
 #ifndef __BASE64_H
 #define __BASE64_H
 #include <stdio.h>
-#include <string.h>
+#include <string.h>   
 
 unsigned char* tabla = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/";
 
